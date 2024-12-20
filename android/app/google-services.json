@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "841051430828",
+    "project_id": "electro-mart-e284f",
+    "storage_bucket": "electro-mart-e284f.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:841051430828:android:05d2fdaa00867c56cca409",
+        "android_client_info": {
+          "package_name": "com.example.electromart"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDgk8UcBjSguDA3fQZ8zpzZAmhyTuB0Llc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
